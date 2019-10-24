@@ -1,1 +1,1 @@
-# SimpleGoRepo [![Build Status](https://travis-ci.org/TodLiuMeng/SimpleGoRepo.svg)](https://travis-ci.org/TodLiuMeng/SimpleGoRepo)
+# SimpleGoRepo [![Build Status](https://travis-ci.org/TodLiuMeng/SimpleGoRepo.svg)](https://travis-ci.org/TodLiuMeng/SimpleGoRepo) [![GoDoc](https://godoc.org/github.com/TodLiuMeng/SimpleGoRepo?status.png)](https://godoc.org/github.com/TodLiuMeng/SimpleGoRepo)
