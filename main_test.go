@@ -8,7 +8,7 @@ import (
 
 func TestExample(t *testing.T) {
 	ast := assert.New(t)
-	ast.Equal(1, 1)
+	ast.Equal("hello", "hello")
 }
 
 
